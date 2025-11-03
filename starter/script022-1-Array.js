@@ -2,6 +2,7 @@
  * 022 - Les tableaux indicés (Arrays)
  */
 
+
 // 1. Initialiser un nouveau tableau
 // EXERCICE 1 : Créez un tableau appelé "semaine" qui contient les noms des jours de la semaine
 
